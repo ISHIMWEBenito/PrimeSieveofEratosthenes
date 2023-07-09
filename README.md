@@ -1,1 +1,1 @@
-# PrimeSieveofEratosthenes
+# Prime Sieve Of Eratosthenes
